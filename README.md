@@ -1,3 +1,5 @@
-# COMP16321-Labs
+# Deep IO
 
-This is the repository that you submit your labs to.
+---
+
+This is a game inspired by Diep.IO made in Python using Tkinter.
